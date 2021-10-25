@@ -19,9 +19,9 @@ This is a mask on the front camera of the smartfone, it is commonly used to reco
 You will need [Node.js](https://nodejs.org) version 10 or higher but if you prefer to use [Yarn](https://yarnpkg.com/) , installed on your computer to continue.
 
 ```bash
-git clone https://github.com/jhonywalkeer/recipe-app.git
+git clone https://github.com/jhonywalkeer/camera-overlay-mask.git
 
-$ cd recipe-app
+$ cd camera-overlay-mask
 $ npm install or yarn install
 ```
 
